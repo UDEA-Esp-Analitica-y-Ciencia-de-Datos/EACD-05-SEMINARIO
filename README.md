@@ -1,4 +1,4 @@
-# Fundamentos de progamación para ciencia de datos
+# Seminario
 
 ## Descripción del curso
 
