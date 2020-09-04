@@ -30,20 +30,42 @@ En esta materia realizarás la primera iteración de un proyecto de analítica d
 
 El objetivo no es necesariamente tener un desempeño competitivo, sino que el proceso realizado sea completo, claro, coherente y reproducible.
 
+## Entrega 1 (Seminario, Semestre 1)
+
+1. Conjunto de notebooks reproducibles PRIMERA ITERACIÓN
+
+- Carpeta en drive, ejecutable en Google Colab
+- Datos en drive accesibles desde los notebooks ejecutados en Google Colab
+- Notebooks ejecutables
+
+
+2. Informe borrador PRIMERA ITERACIÓN
+
+- Descripción objetivos y métricas
+- Descripción de fuentes de datos
+- Descripción de baseline de referencia
+- Objetivos y foco inicial para las siguientes iteraciones (segundo semestre)
+
+
+
 ## Entrega final (Monografía, Semestre 2)
 
 1. Conjunto de notebooks reproducibles
-1.1 Carpeta en drive, ejecutable en Google Colab
-1.2 Datos en drive accesibles desde los notebooks ejecutados en Google Colab
-1.3 Notebooks for fase y por itearación
+
+- Carpeta en drive, ejecutable en Google Colab
+- Datos en drive accesibles desde los notebooks ejecutados en Google Colab
+- Notebooks for fase y por itearación
+
+
 2. Informe de evaluación
-2.1 Descripción objetivos y métricas
-2.2 Descripción de fuentes de datos
-2.3 Descripción de baseline de referencia
-2.4 Descripción de procesos y modelos
-2.5 Reporte de métricas y resultados
-2.6 Evaluación e interpretación de resultados
-2.7 Análisis de impacto esperado en la organización y aspectos legales
+
+- Descripción objetivos y métricas
+- Descripción de fuentes de datos
+- Descripción de baseline de referencia
+- Descripción de procesos y modelos
+- Reporte de métricas y resultados
+- Evaluación e interpretación de resultados
+- Análisis de impacto esperado en la organización y aspectos legales
 
 ## Entrega parcial (esta materia)
 
