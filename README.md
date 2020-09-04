@@ -32,14 +32,14 @@ El objetivo no es necesariamente tener un desempeño competitivo, sino que el pr
 
 ## Entrega 1 (Seminario, Semestre 1)
 
-1. Conjunto de notebooks reproducibles PRIMERA ITERACIÓN
+**1.Conjunto de notebooks reproducibles PRIMERA ITERACIÓN**
 
 - Carpeta en drive, ejecutable en Google Colab
 - Datos en drive accesibles desde los notebooks ejecutados en Google Colab
 - Notebooks ejecutables
 
 
-2. Informe borrador PRIMERA ITERACIÓN
+**2. Informe borrador PRIMERA ITERACIÓN**
 
 - Descripción objetivos y métricas
 - Descripción de fuentes de datos
@@ -50,14 +50,14 @@ El objetivo no es necesariamente tener un desempeño competitivo, sino que el pr
 
 ## Entrega final (Monografía, Semestre 2)
 
-1. Conjunto de notebooks reproducibles
+**1. Conjunto de notebooks reproducibles**
 
 - Carpeta en drive, ejecutable en Google Colab
 - Datos en drive accesibles desde los notebooks ejecutados en Google Colab
 - Notebooks for fase y por itearación
 
 
-2. Informe de evaluación
+**2. Informe de evaluación**
 
 - Descripción objetivos y métricas
 - Descripción de fuentes de datos
