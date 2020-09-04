@@ -67,8 +67,6 @@ El objetivo no es necesariamente tener un desempeño competitivo, sino que el pr
 - Evaluación e interpretación de resultados
 - Análisis de impacto esperado en la organización y aspectos legales
 
-## Entrega parcial (esta materia)
 
-- PRIMERA ITERACIÓN IMPLEMENTADA, conjunto de notebooks en drive, ejecutables en Google Drive
 
 
