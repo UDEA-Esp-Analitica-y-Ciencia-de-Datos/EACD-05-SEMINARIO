@@ -12,14 +12,15 @@ En esta materia realizarás la primera iteración de un proyecto de analítica d
 6. Implementar un primer ciclo de analítca (i.e. modelo predictivo + métricas)
 7. Iterate 1-6 with increasing data, models, preprocessing, etc.
 
-## Programación de sesiones
+## Sesión práctica
 
-- SESION 1 **4/sep**:	Ejemplos de proyectos - instrucciones y metodología para proyectos/monografía
-- SESION 2 **5/sep**: SEM - LEGAL	Avance materia aspectos legales
-- SESION 3 **9/oct**: SEM - PROY 2	Metodología steps 1-3
-- SESION 4 **31/oct**:	Metodología steps 3-5
-- SESION 5 **4/dic**: Metodología step 6
-- SESION 6 **5/dic**: Metodología step 7
+Inspecciona los contenidos del curso de [Inteligencia Artificial para las Ciencias y las Ingenierías](https://rramosp.github.io/ai4eng.v1). Realiza los siguientes laboratorios:
+
+- LAB 01.02 - Metrics
+- LAB 03.01 - Model generation
+- LAB 03.02 - Timeseries model
+- LAB 05.01 - Predictions impact
+- LAB 05.02 - Model evaluation
 
 ## Criterios de evaluación
 
